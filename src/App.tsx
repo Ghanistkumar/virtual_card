@@ -52,6 +52,10 @@ function App() {
             <p className="text-md font-medium text-[#4B2A17]">Akshay Patel - 📞 +91 7383001130</p>
             <p className="text-md font-medium text-[#4B2A17]">Raj Patel - 📞 +91 9537304074</p>
           </div>
+          <div>
+            <h2 className="text-2xl font-semibold text-[#3C2A21] mb-2">For Purchase</h2>
+            <p className="text-md font-medium text-[#4B2A17]">Monty Bhai - 📞+91 90799 42112</p>
+          </div>
 
           <div className="mt-6">
             <h3 className="text-lg font-semibold text-[#3C2A21]">📍 Address</h3>
