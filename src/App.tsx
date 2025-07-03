@@ -18,9 +18,9 @@ function App() {
           initial={{ scale: 0 }}
           animate={{ scale: 1 }}
           transition={{ duration: 1 }}
-          className="w-20 h-20 mx-auto rounded-full bg-[#3C2A21] text-white flex items-center justify-center text-2xl font-bold shadow-md"
+          className="w-20 h-20 mx-auto flex items-center justify-center"
         >
-         <img src='/images/reyansh.jpeg' alt='logo' />
+         <img src='/images/logo.png' alt='logo' />
         </motion.div>
 
         <motion.h1
@@ -49,12 +49,12 @@ function App() {
         >
           <div>
             <h2 className="text-2xl font-semibold text-[#3C2A21] mb-2">Get in Touch</h2>
-            <p className="text-md font-medium text-[#4B2A17]">Akshay Patel - 📞 +91 7383001130</p>
-            <p className="text-md font-medium text-[#4B2A17]">Raj Patel - 📞 +91 9537304074</p>
+            <p className="text-sm md:text-md font-medium text-[#4B2A17]">Akshay Patel - 📞 +91 7383001130</p>
+            <p className="text-sm md:text-md font-medium text-[#4B2A17]">Raj Patel - 📞 +91 9537304074</p>
           </div>
           <div>
             <h2 className="text-2xl font-semibold text-[#3C2A21] mb-2">For Purchase</h2>
-            <p className="text-md font-medium text-[#4B2A17]">Monty Bhai - 📞+91 90799 42112</p>
+            <p className="text-sm md:text-md font-medium text-[#4B2A17]">Monty Bhai - 📞+91 90799 42112</p>
           </div>
 
           <div className="mt-6">
